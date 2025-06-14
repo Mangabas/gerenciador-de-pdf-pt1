@@ -1,7 +1,8 @@
 # Alunos
-**Lucas Eduardo Mangabeira de Melo
-** José Wenderson da Cunha So;
-** Erick Felipe Santos da Silva
+- **Lucas Eduardo Mangabeira de Melo**
+- **José Wenderson da Cunha Silva**
+- **Erick Felipe Santos da Silva**
+- **Carlos Henrique da Silva Guimaraes**
 
 # Sistema de Biblioteca Digital
 
