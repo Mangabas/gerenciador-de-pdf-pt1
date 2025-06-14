@@ -41,7 +41,7 @@ Um sistema de gerenciamento de biblioteca digital desenvolvido em Java que permi
 ## 🚀 Como Usar
 
 ### Observação importante
--NÃO UTILIZAR CARACTERES ESPECIAIS. Devido ao estilo adotador de serialização, podem acontecer alguns erros ao utilizar caracteres especiais
+-NÃO UTILIZAR CARACTERES ESPECIAIS E EVITAR LETRAS MAIUSCULAS. Devido ao estilo adotador de serialização, podem acontecer alguns erros ao utilizar caracteres especiais
 
 ### Compilação
 ```bash
@@ -86,8 +86,8 @@ javac -cp . Main.java biblioteca/*.java models/*.java utils/*.java
 java Main create-lib MinhaBlioteca
 
 # 3. Adicionar documentos
-java Main add-book "joao Silva" "Programacao Java" "Conceitos Avançados" "Computacao" 2023 "/caminho/para/livro.pdf"
-java Main add-slide "introducao à POO" "Programacao" "Prof. Maria" "/caminho/para/slides.pdf"
+java Main add-book "joao Silva" "programacao" "conceitos avançados" "computacao" 2023 "/caminho/para/livro.pdf"
+java Main add-slide "introducao a poo" "programacao" "prof. maria" "/caminho/para/slides.pdf"
 
 # 4. Listar documentos
 java Main list-pdf
