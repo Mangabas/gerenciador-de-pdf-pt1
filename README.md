@@ -28,7 +28,6 @@ Um sistema de gerenciamento de biblioteca digital desenvolvido em Java que permi
 │   ├── Slide.java                    # Modelo para slides
 │   ├── NotaDeAula.java               # Modelo para notas de aula
 └── utils/
-    ├── Biblioteca.java               # Interface para bibliotecas
     ├── LibMethods.java               # Métodos para gerenciamento de bibliotecas
     └── SimpleSerializationLib.java   # Utilitário de serialização
 ```
