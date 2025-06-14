@@ -1,3 +1,8 @@
+# Alunos
+**Lucas Eduardo Mangabeira de Melo
+** José Wenderson da Cunha So;
+** Erick Felipe Santos da Silva
+
 # Sistema de Biblioteca Digital
 
 Um sistema de gerenciamento de biblioteca digital desenvolvido em Java que permite organizar e gerenciar documentos PDF (livros, slides e notas de aula) em bibliotecas e coleções personalizadas.
